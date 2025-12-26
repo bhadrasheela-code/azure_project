@@ -1,0 +1,9 @@
+{
+	"name": "df-fst-azure-trial-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "311a027b-5bb1-4d98-b6ae-3f9e5a7c5122",
+		"tenantId": "cdee9673-3406-478f-a118-f67ab498a3d3"
+	}
+}
